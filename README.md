@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=your-github-username)
 - 👋 Hi, I’m @JanithSamee
 - 👀 I’m interested in Web and Mobile App Development
 - 🌱 I’m currently learning React and Node.js
