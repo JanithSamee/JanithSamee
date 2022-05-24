@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m **@JanithSamee**
 - 👀 I’m interested in Web and Mobile App Development
-- 🌱 I’m currently ASP.net
+- 🌱 I’m currently Working with  ASP.NET, C#, MariaDB
 - 📫 How to reach me janith.samee0@gmail.com
 
 ---
